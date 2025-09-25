@@ -1,0 +1,9 @@
+SQL Hospital Readmissions Project: Summary & Key Insights
+
+OBJECTIVE: Create and analyze a mock-hospital database to measure readmission rates and lenth of stay using MySQL and MySQL Workbench.
+
+DATA: 100 patients, 100 admissions, and related demographics and diagnosis. Created tables: patients, admissions, readmissions.
+
+What I learned: I learned to manage one-to-many relationships. I loaded date in the form of CSV files and by typing in code as well. I wrote complex SQL to show window functions, subqueries, GROUP BY with COUNT/AVG.
+
+Next Steps: Explore visualization (Tableau/Power BI) to present findings to non-technical audiences. There is a lot of trial and error when I write code, but I am learning and I am getting faster!
