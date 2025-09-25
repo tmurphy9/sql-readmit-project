@@ -1,2 +1,2 @@
 # sql-readmit-project
-SQL project - hospital readmissions
+This is a project I created to show how I have learned to use SQL in a "real world" type environment. I created a databvase and then wrote queries for "30 day and 60 day hospital readmissions" and "readmissions by diagnosis," to showcase what I have learned in my SQL course. I am learning how to create a database, how to insert data, and how to use the data for real world examples. 
